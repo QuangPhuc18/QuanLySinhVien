@@ -1,0 +1,11 @@
+D:\C#\Phuc\bin\Debug\Phuc.exe.config
+D:\C#\Phuc\bin\Debug\Phuc.exe
+D:\C#\Phuc\bin\Debug\Phuc.pdb
+D:\C#\Phuc\obj\Debug\Phuc.csproj.AssemblyReference.cache
+D:\C#\Phuc\obj\Debug\Phuc.Form1.resources
+D:\C#\Phuc\obj\Debug\Phuc.Properties.Resources.resources
+D:\C#\Phuc\obj\Debug\Phuc.csproj.GenerateResource.cache
+D:\C#\Phuc\obj\Debug\Phuc.csproj.CoreCompileInputs.cache
+D:\C#\Phuc\obj\Debug\Phuc.exe
+D:\C#\Phuc\obj\Debug\Phuc.pdb
+D:\C#\Phuc\obj\Debug\Phuc.exe.config
