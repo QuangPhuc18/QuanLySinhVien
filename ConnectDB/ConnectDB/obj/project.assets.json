@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\ConnectDB\\ConnectDB\\ConnectDB.csproj",
+      "projectUniqueName": "D:\\C#\\qlysinhvien\\ConnectDB\\ConnectDB\\ConnectDB.csproj",
       "projectName": "ConnectDB",
-      "projectPath": "D:\\C#\\ConnectDB\\ConnectDB\\ConnectDB.csproj",
+      "projectPath": "D:\\C#\\qlysinhvien\\ConnectDB\\ConnectDB\\ConnectDB.csproj",
       "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\ConnectDB\\ConnectDB\\obj\\",
+      "outputPath": "D:\\C#\\qlysinhvien\\ConnectDB\\ConnectDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

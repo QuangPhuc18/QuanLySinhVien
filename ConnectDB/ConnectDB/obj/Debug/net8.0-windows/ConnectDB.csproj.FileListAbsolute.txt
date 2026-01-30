@@ -1,0 +1,17 @@
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\bin\Debug\net8.0-windows\ConnectDB.exe
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\bin\Debug\net8.0-windows\ConnectDB.deps.json
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\bin\Debug\net8.0-windows\ConnectDB.runtimeconfig.json
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\bin\Debug\net8.0-windows\ConnectDB.dll
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\bin\Debug\net8.0-windows\ConnectDB.pdb
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.Form1.resources
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.csproj.GenerateResource.cache
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.AssemblyInfoInputs.cache
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.AssemblyInfo.cs
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.csproj.CoreCompileInputs.cache
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.sourcelink.json
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.dll
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\refint\ConnectDB.dll
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.pdb
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ConnectDB.genruntimeconfig.cache
+D:\C#\qlysinhvien\ConnectDB\ConnectDB\obj\Debug\net8.0-windows\ref\ConnectDB.dll
